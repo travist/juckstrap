@@ -1,7 +1,7 @@
-JuckStrap - Static site generation bliss with Nunjucks + Bootstrap + Wintersmith.js
+JuckStrap - Static site generation bliss with [Nunjucks](http://mozilla.github.io/nunjucks/) + [Bootstrap](http://getbootstrap.com/) + [Wintersmith.js](http://wintersmith.io/)
 ==================================================================================
 
-This is a project that aims to quickly bootstrap a new web application project "the right way". This includes using Bootstrap CSS within Nunjucks templating system, all statically generated with Wintersmith.js.  This project also includes all of the necessary Grunt tools to make your life easier as you build a new web application rapidly and properly.
+This is a project that aims to quickly bootstrap a new web application project "the right way". This includes using [Bootstrap](http://getbootstrap.com/) within [Nunjucks](http://mozilla.github.io/nunjucks/) templating system, all statically generated with [Wintersmith.js](http://wintersmith.io/).  This project also includes all of the necessary Grunt tools to make your life easier as you build a new web application rapidly and properly.
 
 Prerequisites
 ---------------

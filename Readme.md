@@ -18,7 +18,19 @@ There are a few things you will need to get started.
   npm install -g bower
   ```
 
-Installation
+Easy Installation & Configuration
+------------------
+The easiest way to install and configure this library is to utilize [Yeoman](http://yeoman.io/).
+
+```
+npm install -g yo
+npm install -g generator-juckstrap
+yo juckstrap
+```
+
+This will install, configure, and launch the server to get you going quickly.
+
+Hard Installation
 ---------------
 
 To install, first clone this repo, and then type the following in the directory.

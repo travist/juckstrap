@@ -13,6 +13,7 @@ There are a few things you will need to get started.
   npm install -g grunt-cli
   ```
   - **[Bower](http://bower.io/)**
+
   ```
   npm install -g bower
   ```

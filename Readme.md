@@ -30,7 +30,7 @@ yo juckstrap
 
 This will install, configure, and launch the server to get you going quickly.
 
-Hard Installation
+Less Easy Installation
 ---------------
 
 To install, first clone this repo, and then type the following in the directory.

@@ -1,5 +1,26 @@
 {
   "name": "juckstrap",
+  "version": "0.0.1",
+  "description": "Site building bliss with Nunjucks + Bootstrap + Wintermith.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:travist/juckstrap.git"
+  },
+  "keywords": [
+    "nunjucks",
+    "bootstrap",
+    "wintersmith"
+  ],
+  "author": "Travis Tidwell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/travist/juckstrap/issues"
+  },
+  "homepage": "https://github.com/travist/juckstrap",
   "devDependencies": {
     "apache-server-configs": "^2.7.1",
     "grunt": "^0.4.5",

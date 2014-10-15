@@ -21,7 +21,7 @@ There are a few things you will need to get started.
 Installation
 ---------------
 
-To use this project, you must first install [Node.js](http://nodejs.org/).  To install, first clone this repo, and then type the following in the directory.
+To install, first clone this repo, and then type the following in the directory.
 
 ```
 npm install
